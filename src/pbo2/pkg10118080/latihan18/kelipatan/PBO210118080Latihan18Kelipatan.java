@@ -7,7 +7,10 @@ package pbo2.pkg10118080.latihan18.kelipatan;
 
 /**
  *
- * @author Trizky
+ * @author 
+ * Nama :Taufiq Rizky
+ * NIM  :10118080
+ * Deskripsi Program    : program kelipatan 3,5
  */
 public class PBO210118080Latihan18Kelipatan {
 
